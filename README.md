@@ -15,7 +15,7 @@ To set up a new repository on GitHub:
 4.	Select the visibility (public or private).
 5.	Initialize with a README file, a .gitignore file (if needed), and a license.
 6.	Click "Create repository" to finalize the setup.
-7.	
+  
 Key decisions are:
 -repository visibility,
 -license type, and to
